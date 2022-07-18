@@ -9,6 +9,7 @@ public class Mavenpractice2Test {
 	{
 		System.out.println("manual");
 		System.out.println("manual");
+		System.out.println("salem");
 		
 		
 	}
