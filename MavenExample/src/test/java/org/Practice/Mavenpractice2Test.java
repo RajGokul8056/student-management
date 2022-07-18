@@ -9,6 +9,7 @@ public class Mavenpractice2Test {
 	{
 		System.out.println("manual");
 		
+		
 	}
 	@Test
 	public void  mvnsample1() 
