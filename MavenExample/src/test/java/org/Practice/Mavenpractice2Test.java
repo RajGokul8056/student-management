@@ -8,14 +8,14 @@ public class Mavenpractice2Test {
 	public void  mvnsample()
 	{
 		System.out.println("manual");
-		System.out.println("manaliiii");
+		System.out.println("manual");
 		
 		
 	}
 	@Test
 	public void  mvnsample1() 
 	{
-		System.out.println(" automation");
+		System.out.println(" autom00000ation");
 		
 	}
 	@Test
@@ -27,7 +27,7 @@ public class Mavenpractice2Test {
 	@Test
 	public void  mvnsample3() 
 	{
-		System.out.println(" i am a  good youtuber");
+		System.out.println(" i am a fg good youtuber");
 		
 	}
 }
