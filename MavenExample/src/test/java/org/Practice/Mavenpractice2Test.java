@@ -7,9 +7,9 @@ public class Mavenpractice2Test {
 
 	public void  mvnsample()
 	{
-		System.out.println("git");
+		System.out.println("github");
 		
-		System.out.println("salem");
+	
 		
 		
 	}
