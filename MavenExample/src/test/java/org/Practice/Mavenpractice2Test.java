@@ -8,6 +8,7 @@ public class Mavenpractice2Test {
 	public void  mvnsample()
 	{
 		System.out.println("github");
+		System.out.println("github414");
 		
 	
 		
