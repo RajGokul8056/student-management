@@ -17,12 +17,14 @@ public class Mavenpractice2Test {
 	public void  mvnsample1() 
 	{
 		System.out.println(" autom00000ation");
+		System.out.println(" autom00000ahjbdction");
 		
 	}
 	@Test
 	public void  mvnsample2() 
 	{
 		System.out.println(" codrin");
+		System.out.println(" richie is good boy ");
 		
 	}
 	@Test
