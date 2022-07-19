@@ -9,7 +9,11 @@ public class Mavenpractice2Test {
 	{
 		System.out.println("github");
 		System.out.println("github414");
-		
+			String browser = System.getProperty("browser");
+			System.out.println(browser);
+			String url = System.getProperty("url");
+			System.out.println(url);
+
 	
 		
 		
