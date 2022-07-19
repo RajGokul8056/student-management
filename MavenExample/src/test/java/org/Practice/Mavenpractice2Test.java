@@ -17,7 +17,7 @@ public class Mavenpractice2Test {
 	public void  mvnsample1() 
 	{
 		System.out.println(" autom0000");
-		System.out.println(" autom00000ahjbduuction");
+		
 		
 	}
 	@Test
